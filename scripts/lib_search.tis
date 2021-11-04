@@ -1,4 +1,4 @@
-// Find search target: first element with .search_target class
+﻿// Find search target: first element with .search_target class
 var el_search_target = $(.search_target);
 assert(el_search_target);
 
